@@ -216,7 +216,7 @@ for(filmIndex = 0; filmIndex < favFilms.length; filmIndex++){
 }
 
 const filmCheck = () => {
-    if (favFilms[7] == "Ghostbusters") {
+    if (favFilms[1] == "Ghostbusters") {
         console.log("Yay it's Ghostbusters");
     } else {
         console.log("Booo, we want Ghostbusters");
